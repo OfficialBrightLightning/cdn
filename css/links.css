@@ -10,8 +10,8 @@
 
 
 body {
-    background-image: url("");
-    background-repeat: no-repeat;
+    background-image: url("https://cdn.brightlightning.org/img/background.png");
+    background-repeat: repeat;
     background-size: 5500 × 5500;
   background-position: center center;
   background-attachment: fixed;
